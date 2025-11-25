@@ -119,11 +119,11 @@ Medical insurance costs vary for many reasons. Understanding what drives these c
 
 ## Set Up Machine
 
-[Link to Instructions](https://github.com/kjleopold/ml_regression_kjleopold/blob/main/SET_UP_MACHINE.md)
+[Link to Machine Set Up Instructions](https://github.com/kjleopold/ml_regression_kjleopold/blob/main/SET_UP_MACHINE.md)
 
 ## Set Up Project
 
-[Link to Instructions](https://github.com/kjleopold/ml_regression_kjleopold/blob/main/SET_UP_PROJECT.md)
+[Link to Project Set Up Instructions](https://github.com/kjleopold/ml_regression_kjleopold/blob/main/SET_UP_PROJECT.md)
 
 **This includes:** Set Up Virtual Environment (.venv)
 
