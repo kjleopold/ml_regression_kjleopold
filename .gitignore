@@ -83,4 +83,3 @@ site/
 .mypy_cache/
 .pytype/
 .cache/
-SET_UP_PROJECT.md
