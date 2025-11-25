@@ -117,7 +117,14 @@ Medical insurance costs vary for many reasons. Understanding what drives these c
 
 ---
 
-## Set Up Virtual Environment (.venv)
+## Set Up Machine
+
+
+## Set Up Project
+
+
+
+**This includes:** Set Up Virtual Environment (.venv)
 
 Using a VS Code terminal, run the following commands to:
 
@@ -139,7 +146,7 @@ uv run python --version
 **Windows (PowerShell):**
 
 ```bash
-.\.venv\Scripts\activate
+.venv\Scripts\activate
 ```
 
 **macOS / Linux / WSL:**
@@ -150,17 +157,21 @@ source .venv/bin/activate
 
 ---
 
-## Git add-commit-push
+## Git pull-add-commit-push
 
 Open a terminal in VS Code (PowerShell, zsh, or bash).
 
-IMPORTANT: Replace the commit message with a clear and descriptive note about what you added or changed.
-Wrap the commit message in double quotes.
-
+This keeps the local environment and GitHub in sync:
+```shell
+git pull 
+```
+This commits all changes made in the local environment to GitHub:
 ```shell
 git add .
 git commit -m "Meaningful comment"
 git push -u origin main
 ```
+IMPORTANT: Replace the commit message with a clear and descriptive note about what was added or changed.
+Wrap the commit message in double quotes.
 
 We can then use `git push` for later commits.
