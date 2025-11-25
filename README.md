@@ -4,7 +4,8 @@
 **Objective:** Predict medical insurance charges using personal and lifestyle factors.
 
 [Link to Medical Cost Regression Notebook](https://github.com/kjleopold/ml_regression_kjleopold/blob/main/ml_regression_kjleopold.ipynb)
-[Link to Peer Review]
+[Link to Peer Review](https://github.com/kjleopold/ml_regression_kjleopold/blob/main/peer_review.md)
+
 ---
 
 ## Introduction
