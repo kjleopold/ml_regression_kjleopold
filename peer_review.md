@@ -1,6 +1,6 @@
 # Peer Review: Regression Modeling of Medical Insurance Costs
 **Reviewed Notebook:** [Sabriya Sowers – ML Regression Notebook](https://github.com/ssowers2/ml_regression_sowers/blob/main/notebooks/final/regression_sowers.ipynb)  
-**Reviewer:** Kellie Leopold
+**Reviewer:** Kellie Leopold  
 **Date:** November 25, 2025
 
 **1. Clarity & Organization:**  
