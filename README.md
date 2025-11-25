@@ -41,10 +41,10 @@ Medical insurance costs vary for many reasons. Understanding what drives these c
 
 **Features used:**
 
-1. **age:** numeric, impacts health and insurance costs  
-2. **bmi:** numeric, linked to health risk and charges  
-3. **children:** numeric, number of dependents  
-4. **smoker_yes:** categorical converted to numeric 0/1  
+- **age:** numeric, impacts health and insurance costs  
+- **bmi:** numeric, linked to health risk and charges  
+- **children:** numeric, number of dependents  
+- **smoker_yes:** categorical converted to numeric 0/1  
 
 **Interaction Features:**
 
